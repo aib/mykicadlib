@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# Adafruit_TCA6548A
+# Adafruit_TCA9548A
 #
-DEF Adafruit_TCA6548A U 0 40 Y Y 1 F N
+DEF Adafruit_TCA9548A U 0 40 Y Y 1 F N
 F0 "U" -450 1250 60 H V C CNN
-F1 "Adafruit_TCA6548A" 0 0 60 V V C CNN
+F1 "Adafruit_TCA9548A" 0 0 60 V V C CNN
 F2 "" 0 -1450 60 H I C CNN
 F3 "" 0 -1450 60 H I C CNN
 DRAW
