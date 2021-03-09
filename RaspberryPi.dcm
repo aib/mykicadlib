@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP RPi_GPIO
-D Raspberry Pi 1+/2/3 GPIO J8
+D Raspberry Pi 1+/2/3/4 GPIO J8
 K rpi, raspberry, pi, gpio
 $ENDCMP
 #
